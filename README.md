@@ -5,6 +5,18 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
+# **Dog Breed App**
+
+## Table of Contents
+1. [Installation](https://github.com/A-Nuru/Dog-Breed-App#Installation)
+2. [Project Overview](https://github.com/A-Nuru/Dog-Breed-App#Project-Overview)
+3. [Project Instructions](https://github.com/A-Nuru/Dog-Breed-App#Project-Instructions)
+4. [Results](https://github.com/A-Nuru/Dog-Breed-App#Results)
+5. [Acknowledgements](https://github.com/A-Nuru/Dog-Breed-App#Licensing-Authors-Acknowledgements)
+
+## Installation
+No libraries is needed to run the code than the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
+
 ## Project Overview
 
 Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
@@ -12,8 +24,6 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 ![Sample Output][image1]
 
 ## Project Instructions
-
-### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
@@ -97,3 +107,10 @@ jupyter notebook dog_app.ipynb
 ```
 
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
+
+
+## Results
+The main results of the code can be found at the post available [here.](https://medium.com/@nurudeenadesina/embracing-data-science-will-make-you-a-better-football-manager-d86b76d320b1)
+
+## Licensing, Authors, Acknowledgements
+You can find the Licensing for the data [here](https://github.com/A-Nuru/Dog-Breed-App). Otherwise, feel free to use the code here as you would like!

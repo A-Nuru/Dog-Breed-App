@@ -110,7 +110,7 @@ jupyter notebook dog_app.ipynb
 
 
 ## Results
-The main results of the code can be found at the post available [here.](https://medium.com/@nurudeenadesina/embracing-data-science-will-make-you-a-better-football-manager-d86b76d320b1)
+The main results of the code can be found at the post available [here.](https://medium.com/@nurudeenadesina/dog-breed-classifier-88d5b6511930)
 
 ## Licensing, Authors, Acknowledgements
-You can find the Licensing for the data [here](https://github.com/A-Nuru/Dog-Breed-App). Otherwise, feel free to use the code here as you would like!
+You can find the Licensing for the data [here](https://github.com/A-Nuru/Dog-Breed-App/blob/master/LICENSE.txt). Otherwise, feel free to use the code here as you would like!

@@ -21,7 +21,8 @@ No libraries is needed to run the code than the Anaconda distribution of Python.
 
 Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-![Sample Output][image1]
+![snip5](https://user-images.githubusercontent.com/45924101/57193650-b745bd80-6f3d-11e9-8267-c1f10e4edfa0.PNG)
+
 
 ## Project Instructions
 
